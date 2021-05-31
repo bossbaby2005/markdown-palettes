@@ -1,0 +1,1 @@
+unsafeWindow.console.log('qwq');
